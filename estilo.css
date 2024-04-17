@@ -1,13 +1,23 @@
+:root{
+--cor-texto-principal: #ffffff;
+ --cor-texto-secundario:#c0c0c0;
+  --botão-principal:#167bf7;
+ --botão-secundario: #00030c;
+
+}
+
 *{
 margin: 0;
 padding: 0;
 }
 
-h1{
+body{
 
-    font-size: 60px;
-    color: black
+background-color: var(--botão-secundario);
+color:var(--cor-texto-principal)
+
 }
+
 .principal{
     background-image: url(img/m_138_0_1_01112023185732.jpg);
     background-repeat: no-repeat;
