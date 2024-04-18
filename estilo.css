@@ -27,3 +27,10 @@ color:var(--cor-texto-principal)
 .cover{
     height: 100vh;
 }
+
+
+.cover--botao{
+
+background-color: var(--botão-principal);
+}
+
