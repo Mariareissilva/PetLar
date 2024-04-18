@@ -36,7 +36,10 @@ color: var(--botão-secundario);
 padding: 1em;
 border-radius: 4px;
 text-decoration: none ;
+}
 
-
+.botao--secundario{
+background-color: transparent;
+border: 2px solid var(--cor-texto-principal) ;
 }
 
