@@ -32,5 +32,6 @@ color:var(--cor-texto-principal)
 .cover--botao{
 
 background-color: var(--botão-principal);
+color: var(--botão-secundario);
 }
 
