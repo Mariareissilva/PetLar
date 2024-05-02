@@ -22,6 +22,8 @@ color:var(--cor-texto-principal)
     background-image: url(img/m_138_0_1_01112023185732.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: center;
+    align-items: ;
 }
 
 .cover{
@@ -29,7 +31,18 @@ color:var(--cor-texto-principal)
     display: grid;
     grid-template-columns: 50% 50%;
 }
+.cover--botao{
+background-color: var(--botão-principal);
+color: var(--cor-texto-principal);
+padding: lem;
+border-radius: 5px;
+text-decoration: none;
+display: block;
+margin-bottom: 2em;
 
+
+
+}
 
 .cover--botao{
 
